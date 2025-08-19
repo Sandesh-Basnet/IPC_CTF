@@ -1,3 +1,15 @@
-# IPC_CTF
-HAHAHAHAHA This is just most easy OSINT you can ever come accross to.
-So you call yourselves “hackers,” huh? Funny, because the only thing you’ve hacked so far is your own ego. You’re out here flexing your terminal screenshots like you’re in Mr. Robot, but can’t even figure out that the answer isn’t hiding in your payloads, it’s hiding in plain sight. You’ve opened 20 useless tools, run 50 noisy scans, and yet somehow missed the most basic thing — reading the files that are literally handed to you. Maybe grep can’t save you, maybe nmap won’t hold your hand this time, because this challenge doesn’t need your “leet” dictionary attacks. It just needs you to use the one tool you’ve ignored since kindergarten: your eyes. I mean, if mock.txt was a snake, it would have already bitten you and still you’d cry for Burp Suite. Keep pretending you’re 1337 warriors, but until you actually read what’s right in front of you, you’re just script-kiddies clicking blindly in the dark. Pro tip: real hackers don’t skip the README.
+# IPC CTF – OSINT Challenge
+
+Welcome, “hackers.”  
+If you’re reading this, congratulations — you’ve managed to find the README. That alone is probably the most impressive thing some of you will do all day.  
+
+This challenge isn’t about how fast you can run nmap or how many tabs of Burp Suite you can open before your laptop cries. It’s about paying attention. Something most of you are painfully bad at.  
+
+You’ll notice a little file named **`mock.txt`**. Go ahead, open it. Bask in the glory of your own disappointment. Maybe you’ll even find what looks like a flag. Maybe it’ll make you feel special for five minutes before reality smacks you again.  
+
+But here’s a tip, champ: real hackers don’t stop at the first shiny thing they see. The ones who know how to win… they read *everything*.  
+
+So, are you a legend? Or just another script-kiddie who falls for the bait?  
+
+Good luck. You’ll need it.  
+
