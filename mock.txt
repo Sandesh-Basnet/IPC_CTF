@@ -1,0 +1,5 @@
+So you finally opened this file? Wow, what a groundbreaking achievement… took you only how many hours? Pathetic. You run gobuster like it’s your religion but can’t even read plain text. Don’t worry though, we’ve left you something here… or did we? Imagine calling yourself a hacker and still falling for the most obvious bait. Maybe one day you’ll learn that not every shiny string of characters is the prize you’re chasing. Until then, enjoy this consolation trophy:  
+
+FAKE{Y0U_F3LL_F0R_1T}
+
+Now go brag on Discord about how you “captured the flag.” Meanwhile, the real hunters are still laughing at you. Keep searching, champ — just not here.
